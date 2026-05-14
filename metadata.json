@@ -1,0 +1,6 @@
+{
+  "name": "ChronosAI: Intelligent Timetable Generator",
+  "description": "An AI-powered timetable generator that optimizes your schedule based on periods, work blocks, and priorities. Supports recurring events and multi-format exports.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": []
+}
